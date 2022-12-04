@@ -1,2 +1,2 @@
 # java-filmorate
-Черт его знает какая попытка нормально залить проект...
+Template repository for Filmorate project.
